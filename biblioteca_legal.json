@@ -1,0 +1,1711 @@
+[
+ {
+  "id": "DS44-7",
+  "norma": "DS 44/2024 (rige 01-02-2025)",
+  "articulo": "Art. 7",
+  "titulo": "Matriz de identificación de peligros y evaluación de riesgos",
+  "resumen": "La entidad empleadora debe elaborar una matriz por procesos, tareas y puestos, con identificación de peligros y evaluación de riesgos según probabilidad y gravedad del daño; debe estar disponible e informada a las personas trabajadoras. Si el riesgo es elevado, alto o grave se adoptan medidas adicionales. Se revisa al menos anualmente o ante cambios, accidentes, enfermedades profesionales o riesgo grave e inminente.",
+  "riesgos": [
+   "*"
+  ],
+  "jerarquia": [],
+  "fuente": "https://www.bcn.cl/leychile/navegar?idNorma=1205298",
+  "estado": "vigente",
+  "verificado": true,
+  "literal": false
+ },
+ {
+  "id": "DS44-8",
+  "norma": "DS 44/2024 (rige 01-02-2025)",
+  "articulo": "Art. 8",
+  "titulo": "Programa de trabajo preventivo",
+  "resumen": "Se elabora o modifica a partir de la matriz dentro de 30 días corridos; contiene medidas preventivas y correctivas, plazos y responsables, debe constar por escrito, ser aprobado por el representante legal, difundirse y enviarse al Comité Paritario.",
+  "riesgos": [
+   "*"
+  ],
+  "jerarquia": [],
+  "fuente": "https://www.bcn.cl/leychile/navegar?idNorma=1205298",
+  "estado": "vigente",
+  "verificado": true,
+  "literal": false
+ },
+ {
+  "id": "DS44-9",
+  "norma": "DS 44/2024 (rige 01-02-2025)",
+  "articulo": "Art. 9",
+  "titulo": "Prelación de las medidas preventivas",
+  "resumen": "Orden obligatorio: (1) evitar o eliminar el riesgo; (2) controlarlo en la fuente con ingeniería o medidas técnicas; (3) reducirlo con medidas organizacionales o administrativas, incluidos métodos de trabajo seguro; (4) elementos de protección personal para el riesgo residual. Nota: el DS 44 define 4 niveles, sin 'sustitución' separada.",
+  "riesgos": [
+   "*"
+  ],
+  "jerarquia": [
+   "1-Eliminacion",
+   "3-Ingenieria",
+   "4-Administrativo",
+   "5-EPP"
+  ],
+  "fuente": "https://www.bcn.cl/leychile/navegar?idNorma=1205298",
+  "estado": "vigente",
+  "verificado": true,
+  "literal": false
+ },
+ {
+  "id": "DS44-10",
+  "norma": "DS 44/2024 (rige 01-02-2025)",
+  "articulo": "Art. 10",
+  "titulo": "Máquinas, equipos y elementos de trabajo",
+  "resumen": "Informar sobre su uso seguro (incluye manuales y fichas del fabricante). Quien use máquinas con riesgo de atrapamiento, corte o amputación debe contar con procedimiento de trabajo seguro con programa de operación y mantenimiento, control de funcionamiento, protecciones y capacitación.",
+  "riesgos": [
+   "B1",
+   "B3"
+  ],
+  "jerarquia": [
+   "3-Ingenieria",
+   "4-Administrativo"
+  ],
+  "fuente": "https://www.bcn.cl/leychile/navegar?idNorma=1205298",
+  "estado": "vigente",
+  "verificado": true,
+  "literal": false
+ },
+ {
+  "id": "DS44-11",
+  "norma": "DS 44/2024 (rige 01-02-2025)",
+  "articulo": "Art. 11",
+  "titulo": "Personas trabajadoras especialmente sensibles",
+  "resumen": "Al identificar peligros y evaluar riesgos se considera a personas con mayor vulnerabilidad (discapacidad, embarazo, lactancia, adolescentes, adultos mayores) y se aplican medidas específicas; no se les asigna a puestos donde su condición implique riesgo grave.",
+  "riesgos": [
+   "*"
+  ],
+  "jerarquia": [],
+  "fuente": "https://www.bcn.cl/leychile/navegar?idNorma=1205298",
+  "estado": "vigente",
+  "verificado": true,
+  "literal": false
+ },
+ {
+  "id": "DS44-12",
+  "norma": "DS 44/2024 (rige 01-02-2025)",
+  "articulo": "Art. 12",
+  "titulo": "Protección colectiva",
+  "resumen": "Conforme a la prelación, se privilegian los mecanismos de protección colectiva sobre los elementos de protección personal, manteniendo los dispositivos técnicos necesarios.",
+  "riesgos": [
+   "*"
+  ],
+  "jerarquia": [
+   "3-Ingenieria"
+  ],
+  "fuente": "https://www.bcn.cl/leychile/navegar?idNorma=1205298",
+  "estado": "vigente",
+  "verificado": true,
+  "literal": false
+ },
+ {
+  "id": "DS44-13",
+  "norma": "DS 44/2024 (rige 01-02-2025)",
+  "articulo": "Art. 13",
+  "titulo": "Elementos de protección personal (EPP)",
+  "resumen": "Se entregan EPP adecuados al riesgo, a costo del empleador, cuando el riesgo no pueda controlarse suficientemente por otras medidas; con procedimiento de uso, mantención y reposición, certificación o registro ISP, y capacitación de al menos 1 hora cronológica, reforzada anualmente y al ingreso.",
+  "riesgos": [
+   "*"
+  ],
+  "jerarquia": [
+   "5-EPP"
+  ],
+  "fuente": "https://www.bcn.cl/leychile/navegar?idNorma=1205298",
+  "estado": "vigente",
+  "verificado": true,
+  "literal": false
+ },
+ {
+  "id": "DS44-14",
+  "norma": "DS 44/2024 (rige 01-02-2025)",
+  "articulo": "Art. 14",
+  "titulo": "Evaluación del programa de trabajo preventivo",
+  "resumen": "Evaluación del cumplimiento del programa al menos anualmente, con medidas de mejora continua.",
+  "riesgos": [
+   "*"
+  ],
+  "jerarquia": [],
+  "fuente": "https://www.bcn.cl/leychile/navegar?idNorma=1205298",
+  "estado": "vigente",
+  "verificado": true,
+  "literal": false
+ },
+ {
+  "id": "DS44-15",
+  "norma": "DS 44/2024 (rige 01-02-2025)",
+  "articulo": "Art. 15",
+  "titulo": "Información de los riesgos laborales",
+  "resumen": "Antes de iniciar labores cada persona trabajadora recibe información sobre sus riesgos, medidas preventivas y procedimientos correctos (lugar de trabajo, máquinas, emergencias, procedimientos de trabajo seguro y fichas de seguridad de sustancias); se repite ante nuevos procesos o cambios.",
+  "riesgos": [
+   "*"
+  ],
+  "jerarquia": [
+   "4-Administrativo"
+  ],
+  "fuente": "https://www.bcn.cl/leychile/navegar?idNorma=1205298",
+  "estado": "vigente",
+  "verificado": true,
+  "literal": false
+ },
+ {
+  "id": "DS44-16",
+  "norma": "DS 44/2024 (rige 01-02-2025)",
+  "articulo": "Art. 16",
+  "titulo": "Capacitación en prevención de riesgos laborales",
+  "resumen": "Curso de al menos 8 horas, con periodicidad definida en el programa preventivo que no exceda dos años; incluye factores de riesgo, efectos en la salud, medidas preventivas, prestaciones Ley 16.744, plan de emergencia, señalética y prevención de incendios (extintores).",
+  "riesgos": [
+   "*",
+   "J"
+  ],
+  "jerarquia": [
+   "4-Administrativo"
+  ],
+  "fuente": "https://www.bcn.cl/leychile/navegar?idNorma=1205298",
+  "estado": "vigente",
+  "verificado": true,
+  "literal": false
+ },
+ {
+  "id": "DS44-17",
+  "norma": "DS 44/2024 (rige 01-02-2025)",
+  "articulo": "Art. 17",
+  "titulo": "Consulta y participación de representantes",
+  "resumen": "Ante cambios en procesos o estructura que puedan generar riesgo grave se promueve la consulta y participación de los representantes de las personas trabajadoras.",
+  "riesgos": [
+   "*"
+  ],
+  "jerarquia": [],
+  "fuente": "https://www.bcn.cl/leychile/navegar?idNorma=1205298",
+  "estado": "vigente",
+  "verificado": true,
+  "literal": false
+ },
+ {
+  "id": "DS44-18",
+  "norma": "DS 44/2024 (rige 01-02-2025)",
+  "articulo": "Art. 18",
+  "titulo": "Riesgo grave e inminente",
+  "resumen": "Informar de inmediato a las personas afectadas, suspender faenas y evacuar si el riesgo no puede eliminarse; las personas trabajadoras pueden interrumpir labores ante riesgo grave e inminente sin sufrir perjuicio; la suspensión se comunica a la Inspección del Trabajo.",
+  "riesgos": [
+   "*"
+  ],
+  "jerarquia": [
+   "4-Administrativo"
+  ],
+  "fuente": "https://www.bcn.cl/leychile/navegar?idNorma=1205298",
+  "estado": "vigente",
+  "verificado": true,
+  "literal": false
+ },
+ {
+  "id": "DS44-19",
+  "norma": "DS 44/2024 (rige 01-02-2025)",
+  "articulo": "Art. 19",
+  "titulo": "Plan de emergencias, catástrofes o desastres",
+  "resumen": "Contar con planes de gestión, reducción y respuesta ante emergencias, catástrofes o desastres, informados a las personas trabajadoras y ensayados al menos una vez al año simulando una emergencia real.",
+  "riesgos": [
+   "J",
+   "H1",
+   "*"
+  ],
+  "jerarquia": [
+   "4-Administrativo"
+  ],
+  "fuente": "https://www.bcn.cl/leychile/navegar?idNorma=1205298",
+  "estado": "vigente",
+  "verificado": true,
+  "literal": false
+ },
+ {
+  "id": "DS44-20",
+  "norma": "DS 44/2024 (rige 01-02-2025)",
+  "articulo": "Art. 20",
+  "titulo": "Coordinación de la actividad preventiva",
+  "resumen": "Cuando dos o más entidades empleadoras, o una y un trabajador independiente, comparten lugar de trabajo, deben coordinarse e informarse mutuamente riesgos, medidas preventivas y planes de emergencia.",
+  "riesgos": [
+   "*"
+  ],
+  "jerarquia": [
+   "4-Administrativo"
+  ],
+  "fuente": "https://www.bcn.cl/leychile/navegar?idNorma=1205298",
+  "estado": "vigente",
+  "verificado": true,
+  "literal": false
+ },
+ {
+  "id": "DS44-21",
+  "norma": "DS 44/2024 (rige 01-02-2025)",
+  "articulo": "Art. 21",
+  "titulo": "Funcionamiento eficaz de la estructura preventiva",
+  "resumen": "La entidad empleadora vela porque los instrumentos preventivos del Título III funcionen de forma coordinada y eficaz.",
+  "riesgos": [
+   "*"
+  ],
+  "jerarquia": [],
+  "fuente": "https://www.bcn.cl/leychile/navegar?idNorma=1205298",
+  "estado": "vigente",
+  "verificado": true,
+  "literal": false
+ },
+ {
+  "id": "DS44-22",
+  "norma": "DS 44/2024 (rige 01-02-2025)",
+  "articulo": "Art. 22",
+  "titulo": "Sistema de Gestión de SST",
+  "resumen": "Cuando la normativa lo exija, el Sistema de Gestión incluye: política de SST, estructura organizacional con funciones, diagnóstico y programación basada en la matriz, evaluación o auditoría periódica y mejora continua.",
+  "riesgos": [
+   "*"
+  ],
+  "jerarquia": [],
+  "fuente": "https://www.bcn.cl/leychile/navegar?idNorma=1205298",
+  "estado": "vigente",
+  "verificado": true,
+  "literal": false
+ },
+ {
+  "id": "DS594-3",
+  "norma": "DS 594",
+  "articulo": "Art. 3",
+  "titulo": "Deber general del empleador",
+  "resumen": "El empleador debe mantener las condiciones sanitarias y ambientales necesarias para proteger la vida y salud de los trabajadores que laboren en sus dependencias, incluidos los de contratistas.",
+  "riesgos": [
+   "N"
+  ],
+  "jerarquia": [
+   "4-Administrativo"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-5",
+  "norma": "DS 594",
+  "articulo": "Art. 5",
+  "titulo": "Pisos sólidos y no resbaladizos",
+  "resumen": "Los pisos deben ser sólidos y no resbaladizos; donde se manipulen productos tóxicos o corrosivos deben ser resistentes, impermeables y fáciles de limpiar, con drenaje donde haya humedad.",
+  "riesgos": [
+   "A1",
+   "G1",
+   "G2"
+  ],
+  "jerarquia": [
+   "3-Ingenieria"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-6",
+  "norma": "DS 594",
+  "articulo": "Art. 6",
+  "titulo": "Mantención de paredes, techos y estructuras",
+  "resumen": "Paredes, techos, puertas, ventanas y elementos estructurales interiores deben mantenerse limpios y en buen estado, y pintarse cuando el trabajo lo requiera.",
+  "riesgos": [
+   "N"
+  ],
+  "jerarquia": [
+   "4-Administrativo"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-7",
+  "norma": "DS 594",
+  "articulo": "Art. 7",
+  "titulo": "Pisos y pasillos libres de obstáculos",
+  "resumen": "Los pisos de los lugares de trabajo y los pasillos de tránsito deben mantenerse libres de obstáculos para el desplazamiento seguro de los trabajadores en sus labores normales y en emergencias.",
+  "riesgos": [
+   "A1",
+   "B4"
+  ],
+  "jerarquia": [
+   "4-Administrativo"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-8",
+  "norma": "DS 594",
+  "articulo": "Art. 8",
+  "titulo": "Ancho de pasillos y distancia entre máquinas",
+  "resumen": "Los pasillos de circulación deben tener ancho suficiente para el tránsito seguro de personas y materiales, y el espacio entre máquinas utilizadas por personas debe ser de al menos 150 cm.",
+  "riesgos": [
+   "B1",
+   "B4",
+   "I1"
+  ],
+  "jerarquia": [
+   "3-Ingenieria"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-10",
+  "norma": "DS 594",
+  "articulo": "Art. 10",
+  "titulo": "Protección en trabajos a la intemperie",
+  "resumen": "El trabajo en lugares abiertos o sin cubierta requiere protección adecuada frente a las condiciones climáticas.",
+  "riesgos": [
+   "P5",
+   "P6",
+   "L1"
+  ],
+  "jerarquia": [
+   "3-Ingenieria",
+   "4-Administrativo"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-11",
+  "norma": "DS 594",
+  "articulo": "Art. 11",
+  "titulo": "Orden, limpieza y control de plagas",
+  "resumen": "Los lugares de trabajo deben mantenerse ordenados y limpios, con medidas efectivas contra insectos, roedores y otras plagas.",
+  "riesgos": [
+   "A1",
+   "B4",
+   "C2",
+   "Q2"
+  ],
+  "jerarquia": [
+   "4-Administrativo"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-12",
+  "norma": "DS 594",
+  "articulo": "Art. 12",
+  "titulo": "Agua potable en el lugar de trabajo",
+  "resumen": "Todo lugar de trabajo debe contar con agua potable destinada al consumo humano y necesidades básicas de higiene y aseo personal (resumen leído en la versión ISL, mod. hasta 2003).",
+  "riesgos": [
+   "Q2",
+   "M"
+  ],
+  "jerarquia": [
+   "3-Ingenieria"
+  ],
+  "fuente": "https://isl.gob.cl/wp-content/uploads/2024/08/D.S.-594.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-21",
+  "norma": "DS 594",
+  "articulo": "Art. 21",
+  "titulo": "Servicios higiénicos y duchas",
+  "resumen": "Todo lugar de trabajo debe contar con servicios higiénicos con al menos excusado y lavatorio; deben haber duchas con agua fría y caliente donde los trabajadores se ensucien o contacten sustancias tóxicas.",
+  "riesgos": [
+   "Q1",
+   "Q2",
+   "G2"
+  ],
+  "jerarquia": [
+   "3-Ingenieria"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-22",
+  "norma": "DS 594",
+  "articulo": "Art. 22",
+  "titulo": "Servicios higiénicos separados por sexo y mantención",
+  "resumen": "Debe haber servicios higiénicos separados para hombres y mujeres, mantenidos limpios y operativos, con jabón líquido, secado de manos y papel higiénico; con 10 trabajadores o menos se permite uno universal con cerradura.",
+  "riesgos": [
+   "Q2"
+  ],
+  "jerarquia": [
+   "4-Administrativo"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-24",
+  "norma": "DS 594",
+  "articulo": "Art. 24",
+  "titulo": "Servicios higiénicos en faenas temporales",
+  "resumen": "En faenas temporales sin alcantarillado se deben proveer al menos letrinas o baños químicos en número igual a la mitad de los excusados exigidos por el Art. 23, con transporte, instalación y limpieza a cargo del empleador.",
+  "riesgos": [
+   "Q2"
+  ],
+  "jerarquia": [
+   "3-Ingenieria"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-25",
+  "norma": "DS 594",
+  "articulo": "Art. 25",
+  "titulo": "Distancia máxima a servicios higiénicos",
+  "resumen": "Los servicios higiénicos, letrinas o baños químicos no pueden estar a más de 75 metros del área de trabajo, salvo excepción aprobada por la autoridad sanitaria.",
+  "riesgos": [
+   "Q2"
+  ],
+  "jerarquia": [
+   "4-Administrativo"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-27",
+  "norma": "DS 594",
+  "articulo": "Art. 27",
+  "titulo": "Guardarropías y casilleros",
+  "resumen": "Donde se requiera cambio de ropa debe haber guardarropía limpia y protegida, separada por sexo, con casilleros ventilados; si hay exposición a sustancias tóxicas o infecciosas, cada trabajador necesita dos casilleros y el empleador debe lavar la ropa de trabajo.",
+  "riesgos": [
+   "G2",
+   "Q1",
+   "Q2"
+  ],
+  "jerarquia": [
+   "4-Administrativo"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-28",
+  "norma": "DS 594",
+  "articulo": "Art. 28",
+  "titulo": "Comedores aislados de las áreas de trabajo",
+  "resumen": "Donde los trabajadores deban comer en el lugar, el comedor debe estar aislado de las áreas de trabajo y de toda fuente de contaminación, con mesas y sillas lavables, protección contra vectores y agua potable para lavarse.",
+  "riesgos": [
+   "Q2",
+   "M",
+   "G2"
+  ],
+  "jerarquia": [
+   "3-Ingenieria"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-32",
+  "norma": "DS 594",
+  "articulo": "Art. 32",
+  "titulo": "Ventilación de los lugares de trabajo",
+  "resumen": "Los lugares de trabajo deben mantener ventilación natural o artificial que asegure condiciones ambientales confortables y no perjudiciales para la salud.",
+  "riesgos": [
+   "O1",
+   "O2",
+   "O3",
+   "K1",
+   "P5"
+  ],
+  "jerarquia": [
+   "3-Ingenieria"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-33",
+  "norma": "DS 594",
+  "articulo": "Art. 33",
+  "titulo": "Captación de contaminantes en la fuente",
+  "resumen": "Los contaminantes (aerosoles, humos, gases, vapores) deben captarse en su origen e impedirse su dispersión, manteniendo las concentraciones dentro de los límites permisibles.",
+  "riesgos": [
+   "O1",
+   "O2",
+   "O3",
+   "K2"
+  ],
+  "jerarquia": [
+   "3-Ingenieria"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-34",
+  "norma": "DS 594",
+  "articulo": "Art. 34",
+  "titulo": "Espacio por trabajador y renovación de aire",
+  "resumen": "Cada trabajador debe disponer de al menos 10 m3 de espacio; con ventilación mecánica el aporte debe ser de al menos 20 m3/hora de aire fresco por persona o seis renovaciones por hora, pudiendo llegar a 60 según las condiciones.",
+  "riesgos": [
+   "O3",
+   "K1",
+   "P5"
+  ],
+  "jerarquia": [
+   "3-Ingenieria"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-35",
+  "norma": "DS 594",
+  "articulo": "Art. 35",
+  "titulo": "Aberturas de reposición y velocidad del aire",
+  "resumen": "Los sistemas de ventilación deben tener aberturas que admitan aire fresco en reposición del extraído, y la velocidad del aire en zonas ocupadas no debe exceder 1 m/s.",
+  "riesgos": [
+   "P6",
+   "O3"
+  ],
+  "jerarquia": [
+   "3-Ingenieria"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-36",
+  "norma": "DS 594",
+  "articulo": "Art. 36",
+  "titulo": "Condiciones de seguridad de estructuras, máquinas y herramientas",
+  "resumen": "Estructuras, maquinarias, instalaciones, herramientas y equipos deben mantenerse en condiciones seguras y de buen funcionamiento para prevenir daños a las personas.",
+  "riesgos": [
+   "B1",
+   "B2",
+   "B3",
+   "B4"
+  ],
+  "jerarquia": [
+   "3-Ingenieria",
+   "4-Administrativo"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-37",
+  "norma": "DS 594",
+  "articulo": "Art. 37",
+  "titulo": "Eliminación de peligros, vías de evacuación y señalización",
+  "resumen": "Deben eliminarse los factores de peligro para la salud o seguridad física; las vías de evacuación deben tener salidas suficientes, identificadas, que abran hacia afuera y sin llave, y deben señalizarse zonas de peligro, vías de escape, zonas de seguridad y EPP obligatorio.",
+  "riesgos": [
+   "J",
+   "H1",
+   "A1",
+   "N"
+  ],
+  "jerarquia": [
+   "3-Ingenieria",
+   "4-Administrativo"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-38",
+  "norma": "DS 594",
+  "articulo": "Art. 38",
+  "titulo": "Protección de partes móviles de máquinas",
+  "resumen": "Las partes móviles, transmisiones y puntos de operación de maquinarias y equipos deben estar protegidos adecuadamente.",
+  "riesgos": [
+   "B1",
+   "B3",
+   "H2"
+  ],
+  "jerarquia": [
+   "3-Ingenieria"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-39",
+  "norma": "DS 594",
+  "articulo": "Art. 39",
+  "titulo": "Instalaciones eléctricas y de gas",
+  "resumen": "Las instalaciones eléctricas y de gas deben construirse, instalarse, protegerse y mantenerse conforme a las normas de la autoridad competente.",
+  "riesgos": [
+   "F1",
+   "F2",
+   "F3",
+   "F4",
+   "H1",
+   "J"
+  ],
+  "jerarquia": [
+   "3-Ingenieria"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-40",
+  "norma": "DS 594",
+  "articulo": "Art. 40",
+  "titulo": "Prohibición de ropa suelta y accesorios cerca de partes móviles",
+  "resumen": "Quienes trabajen cerca de maquinaria en movimiento o transmisiones no deben usar ropa suelta, cabello largo suelto ni joyas que puedan ser atrapados.",
+  "riesgos": [
+   "B1"
+  ],
+  "jerarquia": [
+   "4-Administrativo"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-42",
+  "norma": "DS 594",
+  "articulo": "Art. 42",
+  "titulo": "Almacenamiento de materiales y sustancias peligrosas",
+  "resumen": "Los materiales deben almacenarse con procedimientos y en lugares apropiados y seguros; el almacenamiento de sustancias peligrosas se rige por el DS 78/2009 y el de combustibles por el DS 160/2008.",
+  "riesgos": [
+   "B2",
+   "G1",
+   "G2",
+   "H1",
+   "J",
+   "K2"
+  ],
+  "jerarquia": [
+   "3-Ingenieria",
+   "4-Administrativo"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-43",
+  "norma": "DS 594",
+  "articulo": "Art. 43",
+  "titulo": "Licencia y alarma de retroceso en maquinaria autopropulsada",
+  "resumen": "La operación de maquinaria autopropulsada (tractores, grúas, excavadoras) exige licencia de conducir según la ley de tránsito, y grúas, camiones y equipos móviles deben tener alarma sonora de retroceso.",
+  "riesgos": [
+   "I1",
+   "I2",
+   "B4"
+  ],
+  "jerarquia": [
+   "3-Ingenieria",
+   "4-Administrativo"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-44",
+  "norma": "DS 594",
+  "articulo": "Art. 44",
+  "titulo": "Prevención de incendios",
+  "resumen": "Se debe controlar materiales combustibles y fuentes de calor, inspeccionar instalaciones periódicamente, mantener el orden y prohibir fumar y llamas abiertas donde haya inflamables; soldadura y corte requieren procedimientos específicos de seguridad.",
+  "riesgos": [
+   "J",
+   "H1"
+  ],
+  "jerarquia": [
+   "3-Ingenieria",
+   "4-Administrativo"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-45",
+  "norma": "DS 594",
+  "articulo": "Art. 45",
+  "titulo": "Extintores en lugares con riesgo de incendio",
+  "resumen": "Los lugares con riesgo de incendio deben tener extintores adecuados a los materiales presentes, en número según el Art. 46, que cumplan el DS 369/1996 y estén certificados por laboratorio acreditado.",
+  "riesgos": [
+   "J"
+  ],
+  "jerarquia": [
+   "3-Ingenieria"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-46",
+  "norma": "DS 594",
+  "articulo": "Art. 46",
+  "titulo": "Número y potencial de extinción de extintores",
+  "resumen": "Los extintores deben tener un potencial mínimo de extinción según superficie de cobertura y distancia de traslado (tabla del artículo); riesgos clase B requieren 10 B o 40 B en zonas de almacenamiento de combustibles.",
+  "riesgos": [
+   "J"
+  ],
+  "jerarquia": [
+   "3-Ingenieria"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-47",
+  "norma": "DS 594",
+  "articulo": "Art. 47",
+  "titulo": "Ubicación y señalización de extintores",
+  "resumen": "Los extintores deben ser de fácil acceso, estar señalizados, sin obstrucciones, plenamente operativos y instalados a no más de 1,30 m del piso hasta su base.",
+  "riesgos": [
+   "J"
+  ],
+  "jerarquia": [
+   "3-Ingenieria",
+   "4-Administrativo"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-48",
+  "norma": "DS 594",
+  "articulo": "Art. 48",
+  "titulo": "Capacitación en uso de extintores",
+  "resumen": "Todo el personal debe estar capacitado en el uso de extintores para actuar en una emergencia.",
+  "riesgos": [
+   "J"
+  ],
+  "jerarquia": [
+   "4-Administrativo"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-51",
+  "norma": "DS 594",
+  "articulo": "Art. 51",
+  "titulo": "Mantención anual de extintores",
+  "resumen": "Los extintores deben ser inspeccionados, controlados y mantenidos preventivamente al menos una vez al año por el fabricante o servicio técnico, con la fecha en la etiqueta, sin dejar el lugar sin extintores durante la mantención.",
+  "riesgos": [
+   "J"
+  ],
+  "jerarquia": [
+   "4-Administrativo"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-52",
+  "norma": "DS 594",
+  "articulo": "Art. 52",
+  "titulo": "Detección y supresión automática de incendios",
+  "resumen": "Donde se almacenen o manipulen sustancias peligrosas la autoridad sanitaria puede exigir detección automática de incendios y, en casos de alto riesgo, un sistema automático de supresión con agente compatible.",
+  "riesgos": [
+   "J",
+   "H1"
+  ],
+  "jerarquia": [
+   "3-Ingenieria"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-53",
+  "norma": "DS 594",
+  "articulo": "Art. 53",
+  "titulo": "Entrega y uso de elementos de protección personal",
+  "resumen": "El empleador debe proporcionar gratuitamente a los trabajadores EPP adecuados al riesgo, con capacitación teórica y práctica, mantenerlos en buen estado, y los trabajadores deben usarlos permanentemente mientras estén expuestos al riesgo.",
+  "riesgos": [
+   "B1",
+   "B2",
+   "B3",
+   "B4",
+   "E1",
+   "E2",
+   "G1",
+   "G2",
+   "H2",
+   "L1",
+   "O1",
+   "O2",
+   "O3",
+   "P1",
+   "P6"
+  ],
+  "jerarquia": [
+   "5-EPP"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-54",
+  "norma": "DS 594",
+  "articulo": "Art. 54",
+  "titulo": "Certificación de los EPP",
+  "resumen": "Los EPP deben cumplir las normas de calidad del DS 18/1982; si no hay organismos certificadores, el Instituto de Salud Pública puede aceptar temporalmente la certificación de origen.",
+  "riesgos": [
+   "B1",
+   "B2",
+   "B3",
+   "B4",
+   "E1",
+   "E2",
+   "G1",
+   "G2",
+   "H2",
+   "L1",
+   "O1",
+   "O2",
+   "O3",
+   "P1",
+   "P6"
+  ],
+  "jerarquia": [
+   "5-EPP"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-57",
+  "norma": "DS 594",
+  "articulo": "Art. 57",
+  "titulo": "Actuación ante superación de límites permisibles",
+  "resumen": "Si una medición representativa muestra que se superan los límites, el empleador debe controlar el riesgo en su origen y, si no es posible del todo, entregar protección personal frente al riesgo residual e impedir el trabajo en condiciones de riesgo.",
+  "riesgos": [
+   "O1",
+   "O2",
+   "O3",
+   "P1",
+   "P2",
+   "P5",
+   "P6",
+   "K2"
+  ],
+  "jerarquia": [
+   "3-Ingenieria",
+   "5-EPP"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-58",
+  "norma": "DS 594",
+  "articulo": "Art. 58",
+  "titulo": "Prohibición de trabajar en atmósferas con menos de 18% de oxígeno",
+  "resumen": "Se prohíbe trabajar sin protección personal adecuada en atmósferas con menos de 18% de oxígeno, considerando que el oxígeno efectivo depende de su presión parcial.",
+  "riesgos": [
+   "K1"
+  ],
+  "jerarquia": [
+   "3-Ingenieria",
+   "5-EPP"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-58-bis",
+  "norma": "DS 594",
+  "articulo": "Art. 58 bis",
+  "titulo": "Control de polvo de sílice al cortar, moler o perforar",
+  "resumen": "Las actividades que corten, muelan, perforen o fracturen materiales con sílice deben aplicar humedad u otro método de control si el uso de humedad no es posible.",
+  "riesgos": [
+   "O1"
+  ],
+  "jerarquia": [
+   "3-Ingenieria"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-59",
+  "norma": "DS 594",
+  "articulo": "Art. 59",
+  "titulo": "Tipos de límites permisibles (ponderado, temporal y absoluto)",
+  "resumen": "Define el límite permisible ponderado (jornada de 8 horas, 45 horas semanales), el temporal (15 minutos) y el absoluto (nunca debe superarse).",
+  "riesgos": [
+   "O1",
+   "O2",
+   "O3",
+   "K2"
+  ],
+  "jerarquia": [
+   "4-Administrativo"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-61",
+  "norma": "DS 594",
+  "articulo": "Art. 61",
+  "titulo": "Límites absolutos en sustancias de efecto rápido grave",
+  "resumen": "Las sustancias capaces de causar rápidamente efectos narcóticos, cáusticos o tóxicos graves o fatales nunca deben superar los límites absolutos de la tabla.",
+  "riesgos": [
+   "K2",
+   "G1",
+   "O3"
+  ],
+  "jerarquia": [
+   "3-Ingenieria",
+   "4-Administrativo"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-65",
+  "norma": "DS 594",
+  "articulo": "Art. 65",
+  "titulo": "Sustancias cuyo uso está prohibido",
+  "resumen": "Se prohíbe el uso en los lugares de trabajo de las sustancias listadas (por ejemplo aldrín, bencidina, DDT, dieldrín y asbesto azul crocidolita), salvo casos calificados por la autoridad sanitaria.",
+  "riesgos": [
+   "G2",
+   "O1"
+  ],
+  "jerarquia": [
+   "1-Eliminacion"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-66",
+  "norma": "DS 594",
+  "articulo": "Art. 66",
+  "titulo": "Límites permisibles de sustancias químicas",
+  "resumen": "Fija los límites permisibles ponderado y temporal, en ppm y mg/m3, para las sustancias químicas listadas por número CAS.",
+  "riesgos": [
+   "O1",
+   "O2",
+   "O3",
+   "K2"
+  ],
+  "jerarquia": [
+   "3-Ingenieria",
+   "4-Administrativo"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-67",
+  "norma": "DS 594",
+  "articulo": "Art. 67",
+  "titulo": "Sustancias absorbibles por la piel",
+  "resumen": "Las sustancias marcadas 'Piel' pueden absorberse por la piel; se deben tomar medidas para evitar el contacto y reforzar la higiene personal.",
+  "riesgos": [
+   "G1",
+   "G2"
+  ],
+  "jerarquia": [
+   "3-Ingenieria",
+   "5-EPP"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-68",
+  "norma": "DS 594",
+  "articulo": "Art. 68",
+  "titulo": "Sustancias cancerígenas",
+  "resumen": "Las sustancias A.1 (cancerígenas comprobadas) y A.2 (sospechosas) exigen protección reforzada; las A.3 y A.4 exigen mantener la exposición lo más baja posible.",
+  "riesgos": [
+   "O1",
+   "O3",
+   "G2"
+  ],
+  "jerarquia": [
+   "1-Eliminacion",
+   "2-Sustitucion",
+   "3-Ingenieria"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-69",
+  "norma": "DS 594",
+  "articulo": "Art. 69",
+  "titulo": "Exposición a mezclas de contaminantes",
+  "resumen": "Cuando dos o más sustancias actúan de igual modo sobre el organismo, el efecto combinado se evalúa sumando cada concentración dividida por su límite ponderado; la suma no debe exceder 1.",
+  "riesgos": [
+   "O1",
+   "O3"
+  ],
+  "jerarquia": [
+   "4-Administrativo"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-74",
+  "norma": "DS 594",
+  "articulo": "Art. 74",
+  "titulo": "Límite de exposición a ruido continuo en jornada de 8 horas",
+  "resumen": "Ningún trabajador puede estar expuesto, en una jornada de 8 horas, a un nivel de presión sonora continuo equivalente superior a 85 dB(A) lento, medido en el oído del trabajador.",
+  "riesgos": [
+   "P1"
+  ],
+  "jerarquia": [
+   "3-Ingenieria",
+   "4-Administrativo"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-75",
+  "norma": "DS 594",
+  "articulo": "Art. 75",
+  "titulo": "Tiempos de exposición a ruido distintos de 85 dB(A)",
+  "resumen": "Se permiten niveles distintos de 85 dB(A) si el tiempo de exposición no supera los valores de la tabla, aplicable a trabajadores sin protección auditiva.",
+  "riesgos": [
+   "P1"
+  ],
+  "jerarquia": [
+   "4-Administrativo"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-76",
+  "norma": "DS 594",
+  "articulo": "Art. 76",
+  "titulo": "Dosis diaria de ruido",
+  "resumen": "Cuando la exposición diaria incluye varios períodos a niveles de 80 dB(A) o más, se calcula una dosis diaria combinada que no debe superar 1 (100%).",
+  "riesgos": [
+   "P1"
+  ],
+  "jerarquia": [
+   "4-Administrativo"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-77",
+  "norma": "DS 594",
+  "articulo": "Art. 77",
+  "titulo": "Límite máximo absoluto de ruido continuo",
+  "resumen": "Los trabajadores sin protección auditiva nunca deben exponerse a un nivel de ruido continuo equivalente superior a 115 dB(A) lento.",
+  "riesgos": [
+   "P1"
+  ],
+  "jerarquia": [
+   "3-Ingenieria",
+   "5-EPP"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-79",
+  "norma": "DS 594",
+  "articulo": "Art. 79",
+  "titulo": "Límite de ruido impulsivo",
+  "resumen": "Ningún trabajador puede estar expuesto, en una jornada de 8 horas, a un nivel de presión sonora peak superior a 95 dB(C) peak, medido en el oído.",
+  "riesgos": [
+   "P1"
+  ],
+  "jerarquia": [
+   "3-Ingenieria",
+   "4-Administrativo"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-81",
+  "norma": "DS 594",
+  "articulo": "Art. 81",
+  "titulo": "Límite máximo absoluto de ruido impulsivo",
+  "resumen": "Los trabajadores sin protección auditiva nunca deben exponerse a niveles peak superiores a 140 dB(C) peak.",
+  "riesgos": [
+   "P1"
+  ],
+  "jerarquia": [
+   "3-Ingenieria",
+   "5-EPP"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-82",
+  "norma": "DS 594",
+  "articulo": "Art. 82",
+  "titulo": "Evaluación con protección auditiva",
+  "resumen": "Con protección auditiva, el cumplimiento se determina por el nivel efectivo (nivel medido menos atenuación del protector), que no debe superar los límites de la tabla.",
+  "riesgos": [
+   "P1"
+  ],
+  "jerarquia": [
+   "5-EPP"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-87",
+  "norma": "DS 594",
+  "articulo": "Art. 87",
+  "titulo": "Límite de vibración de cuerpo entero",
+  "resumen": "En una jornada de 8 horas, la aceleración equivalente ponderada máxima permitida es 0,63 m/s2 en el eje Z y 0,45 m/s2 en los ejes X e Y.",
+  "riesgos": [
+   "P2"
+  ],
+  "jerarquia": [
+   "3-Ingenieria",
+   "4-Administrativo"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-88",
+  "norma": "DS 594",
+  "articulo": "Art. 88",
+  "titulo": "Tiempos de exposición a vibración de cuerpo entero",
+  "resumen": "Se permiten aceleraciones distintas de las del Art. 87 si el tiempo de exposición no supera los valores de la tabla, que cubre duraciones de 0,5 a 12 horas por eje.",
+  "riesgos": [
+   "P2"
+  ],
+  "jerarquia": [
+   "4-Administrativo"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-92",
+  "norma": "DS 594",
+  "articulo": "Art. 92",
+  "titulo": "Límite de vibración mano-brazo",
+  "resumen": "La mayor aceleración equivalente en cualquier eje es la base de la evaluación de la exposición mano-brazo y no debe superar los valores de la tabla según la duración diaria de exposición.",
+  "riesgos": [
+   "P2"
+  ],
+  "jerarquia": [
+   "3-Ingenieria",
+   "4-Administrativo"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-95",
+  "norma": "DS 594",
+  "articulo": "Art. 95",
+  "titulo": "Límites y pausas en trabajo de digitación",
+  "resumen": "Un trabajador no puede digitar más de 8 horas diarias ni 40 semanales, y debe tener una pausa de 5 minutos por cada 20 minutos de digitación continua.",
+  "riesgos": [
+   "S1",
+   "T2"
+  ],
+  "jerarquia": [
+   "4-Administrativo"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-96",
+  "norma": "DS 594",
+  "articulo": "Art. 96",
+  "titulo": "Carga calórica ambiental (IBUTG)",
+  "resumen": "La carga calórica se mide con el índice IBUTG (temperatura, humedad, velocidad del aire y calor radiante); los límites se aplican a trabajadores aclimatados, vestidos y bien hidratados, de modo que la temperatura corporal central no supere 38 C.",
+  "riesgos": [
+   "P5"
+  ],
+  "jerarquia": [
+   "3-Ingenieria",
+   "4-Administrativo"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-97",
+  "norma": "DS 594",
+  "articulo": "Art. 97",
+  "titulo": "Cálculo de exposición a calor",
+  "resumen": "La exposición a calor se calcula como promedio ponderado en el tiempo de los IBUTG medidos en todas las zonas de trabajo y descanso que ocupa el trabajador durante el turno.",
+  "riesgos": [
+   "P5"
+  ],
+  "jerarquia": [
+   "4-Administrativo"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-98",
+  "norma": "DS 594",
+  "articulo": "Art. 98",
+  "titulo": "Cálculo de carga de trabajo (costo energético)",
+  "resumen": "La carga de trabajo se calcula como promedio ponderado del costo energético metabólico de las actividades y descansos, usando la tabla del artículo.",
+  "riesgos": [
+   "P5"
+  ],
+  "jerarquia": [
+   "4-Administrativo"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-98-bis",
+  "norma": "DS 594",
+  "articulo": "Art. 98 bis",
+  "titulo": "Protección ante altas temperaturas y alertas de calor",
+  "resumen": "El empleador debe proteger a los trabajadores de altas temperaturas considerando las alertas de la Dirección Meteorológica y del Senapred: revisar alertas a diario, identificar y evaluar la exposición al calor por puesto, y elaborar con su organismo administrador y participación de los trabajadores un plan de gestión y respuesta ante emergencias por calor. Incorporado por DS 40/2025 MINSAL, publicado el 16-01-2026.",
+  "riesgos": [
+   "P5",
+   "L1"
+  ],
+  "jerarquia": [
+   "3-Ingenieria",
+   "4-Administrativo"
+  ],
+  "fuente": "https://www.diariooficial.interior.gob.cl/publicaciones/2026/01/16/44350/01/2749490.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-99",
+  "norma": "DS 594",
+  "articulo": "Art. 99",
+  "titulo": "Definición de exposición ocupacional al frío",
+  "resumen": "La exposición al frío son combinaciones de temperatura y velocidad del aire que bajan la temperatura corporal central a 36 C o menos; temperaturas ambientales exteriores de 10 C o menos se consideran críticas.",
+  "riesgos": [
+   "P6",
+   "E2"
+  ],
+  "jerarquia": [
+   "4-Administrativo"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-100",
+  "norma": "DS 594",
+  "articulo": "Art. 100",
+  "titulo": "Ropa de protección contra el frío",
+  "resumen": "Los trabajadores expuestos al frío deben recibir ropa adecuada, no ajustada, fácil de poner y quitar y con capa exterior aislante.",
+  "riesgos": [
+   "P6",
+   "E2"
+  ],
+  "jerarquia": [
+   "5-EPP"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-101",
+  "norma": "DS 594",
+  "articulo": "Art. 101",
+  "titulo": "Pausas en zonas más cálidas y tiempos máximos en frío",
+  "resumen": "Cuando la exposición al frío sea peligrosa deben alternarse períodos de exposición con descanso en zonas más cálidas; la tabla fija tiempos diarios máximos según la temperatura del recinto.",
+  "riesgos": [
+   "P6",
+   "E2"
+  ],
+  "jerarquia": [
+   "4-Administrativo"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-102",
+  "norma": "DS 594",
+  "articulo": "Art. 102",
+  "titulo": "Seguridad en cámaras de frío",
+  "resumen": "Las cámaras de frío deben tener sistemas de seguridad y monitoreo que permitan salir rápidamente en caso de emergencia.",
+  "riesgos": [
+   "P6",
+   "E2",
+   "K1"
+  ],
+  "jerarquia": [
+   "3-Ingenieria"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-103",
+  "norma": "DS 594",
+  "articulo": "Art. 103",
+  "titulo": "Iluminación mínima según la tarea",
+  "resumen": "Todo lugar de trabajo, salvo minería subterránea y similares, debe tener iluminación natural o artificial adecuada a la tarea; la tabla fija niveles mínimos promedio, desde 150 lux en pasillos y descanso hasta 500 lux en trabajos de detalle fino.",
+  "riesgos": [
+   "A1",
+   "A2",
+   "B4",
+   "N"
+  ],
+  "jerarquia": [
+   "3-Ingenieria"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-107",
+  "norma": "DS 594",
+  "articulo": "Art. 107",
+  "titulo": "Límites de radiación láser",
+  "resumen": "Fija los límites de energía o densidad de potencia de radiación láser directa o reflejada para exposición del ojo (Tabla 1) y de la piel (Tabla 2).",
+  "riesgos": [
+   "L1",
+   "P4"
+  ],
+  "jerarquia": [
+   "3-Ingenieria",
+   "5-EPP"
+  ],
+  "fuente": "https://www.ist.cl/wp-content/uploads/2016/08/DECRETO-SUPREMO-594-ACTUALIZADO-2019.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-110-b",
+  "norma": "DS 594",
+  "articulo": "Art. 110 b",
+  "titulo": "Trabajo a gran altitud con hipobaria crónica intermitente",
+  "resumen": "Regula el trabajo a gran altitud con hipobaria crónica intermitente; por sobre 5.500 m solo se permite con autorización fundada previa de la autoridad sanitaria. Fuente: texto del DS 28/2012 (sin confirmar modificaciones posteriores).",
+  "riesgos": [
+   "P8"
+  ],
+  "jerarquia": [
+   "4-Administrativo"
+  ],
+  "fuente": "https://achs.cl/doc-noticia/centro-de-noticias/Documents/decreto_condiciones_sanitarias_ambientales_lugar_trabajo.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-110-b.2",
+  "norma": "DS 594",
+  "articulo": "Art. 110 b.2",
+  "titulo": "Obligaciones del empleador en hipobaria",
+  "resumen": "El empleador debe informar los riesgos a los trabajadores, incluir el riesgo en su sistema de gestión de seguridad, mantener un programa preventivo anual escrito y dar capacitación teórico-práctica anual de 3 horas. Fuente: DS 28/2012.",
+  "riesgos": [
+   "P8"
+  ],
+  "jerarquia": [
+   "4-Administrativo"
+  ],
+  "fuente": "https://achs.cl/doc-noticia/centro-de-noticias/Documents/decreto_condiciones_sanitarias_ambientales_lugar_trabajo.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-110-b.3",
+  "norma": "DS 594",
+  "articulo": "Art. 110 b.3",
+  "titulo": "Evaluación de aptitud previa para trabajo en altura geográfica",
+  "resumen": "Se requiere determinar la aptitud antes de la contratación (exámenes, encuestas y evaluaciones de salud), a costo del empleador. Fuente: DS 28/2012.",
+  "riesgos": [
+   "P8"
+  ],
+  "jerarquia": [
+   "4-Administrativo"
+  ],
+  "fuente": "https://achs.cl/doc-noticia/centro-de-noticias/Documents/decreto_condiciones_sanitarias_ambientales_lugar_trabajo.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-110-b.4",
+  "norma": "DS 594",
+  "articulo": "Art. 110 b.4",
+  "titulo": "Vigilancia de salud de expuestos a hipobaria",
+  "resumen": "Los trabajadores expuestos ingresan a vigilancia ocupacional, con evaluaciones periódicas y de egreso, controles preventivos anuales, certificados de aptitud y reubicación de los no aptos. Fuente: DS 28/2012.",
+  "riesgos": [
+   "P8"
+  ],
+  "jerarquia": [
+   "4-Administrativo"
+  ],
+  "fuente": "https://achs.cl/doc-noticia/centro-de-noticias/Documents/decreto_condiciones_sanitarias_ambientales_lugar_trabajo.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-110-b.6",
+  "norma": "DS 594",
+  "articulo": "Art. 110 b.6",
+  "titulo": "Mitigación en campamentos sobre 3.000 m",
+  "resumen": "Los campamentos sobre 3.000 m deben tener medidas de mitigación de la hipobaria, con administración de oxígeno por personal de salud. Fuente: DS 28/2012.",
+  "riesgos": [
+   "P8"
+  ],
+  "jerarquia": [
+   "3-Ingenieria"
+  ],
+  "fuente": "https://achs.cl/doc-noticia/centro-de-noticias/Documents/decreto_condiciones_sanitarias_ambientales_lugar_trabajo.pdf",
+  "verificado": true
+ },
+ {
+  "id": "DS594-110-b.9",
+  "norma": "DS 594",
+  "articulo": "Art. 110 b.9",
+  "titulo": "Brigada de emergencia en faenas de altura",
+  "resumen": "Se requiere una brigada de emergencia con capacitación anual de 2 horas. Fuente: DS 28/2012.",
+  "riesgos": [
+   "P8"
+  ],
+  "jerarquia": [
+   "4-Administrativo"
+  ],
+  "fuente": "https://achs.cl/doc-noticia/centro-de-noticias/Documents/decreto_condiciones_sanitarias_ambientales_lugar_trabajo.pdf",
+  "verificado": true
+ },
+ {
+  "id": "L16744-68",
+  "norma": "Ley 16.744",
+  "articulo": "Art. 68",
+  "titulo": "Medidas de higiene y seguridad y EPP gratuitos",
+  "resumen": "Las empresas deben implantar las medidas de higiene y seguridad que prescriban el Servicio de Salud o el organismo administrador. Su incumplimiento se sanciona según el procedimiento de multas del Código Sanitario, con posible recargo de la cotización adicional, y el Servicio de Salud puede clausurar lugares con riesgo inminente.",
+  "riesgos": [
+   "*"
+  ],
+  "fuente": "https://www.suseso.gob.cl/612/w3-article-28426.html",
+  "verificado": true,
+  "nota": "Leído en parafraseo de Dictamen SUSESO 3090-1991 (que cita el art. 68); la obligación de entregar EPP gratuitos se leyó solo en iura.cl/16744/68 (fuente no oficial). Cotejar con texto vigente en bcn.cl (idNorma 28650; XML versión 2021-12-10).",
+  "jerarquia": []
+ },
+ {
+  "id": "CT-184",
+  "norma": "Código del Trabajo",
+  "articulo": "Art. 184 inc. 1",
+  "titulo": "Deber de protección eficaz del empleador",
+  "resumen": "El empleador debe tomar todas las medidas necesarias para proteger eficazmente la vida y salud de los trabajadores, informar los riesgos y mantener condiciones adecuadas de higiene y seguridad y los implementos necesarios para prevenir accidentes y enfermedades profesionales.",
+  "riesgos": [
+   "*"
+  ],
+  "fuente": "https://dt.gob.cl/legislacion/1624/w3-article-114255.html",
+  "verificado": true,
+  "nota": "Leído en Ord. DT 6208 (2017); fecha de última modificación no visible en la fuente. No se verificó modificación posterior.",
+  "jerarquia": []
+ },
+ {
+  "id": "CT-184bis",
+  "norma": "Código del Trabajo",
+  "articulo": "Art. 184 bis",
+  "titulo": "Riesgo grave e inminente",
+  "resumen": "Ante un riesgo grave e inminente para la vida o salud, el empleador debe informar a los afectados y, si no puede eliminarlo o reducirlo, suspender las labores afectadas y evacuar. El trabajador puede interrumpir sus labores y abandonar el lugar si estima razonablemente que existe ese riesgo.",
+  "riesgos": [
+   "*"
+  ],
+  "fuente": "https://dt.gob.cl/legislacion/1624/w3-article-114255.html",
+  "verificado": true,
+  "nota": "Incorporado por Ley 21.012 (DO 09-06-2017), según la fuente.",
+  "jerarquia": []
+ },
+ {
+  "id": "CT-211H",
+  "norma": "Código del Trabajo (Ley 20.949)",
+  "articulo": "Art. 211-H",
+  "titulo": "Manipulación manual inevitable: máximo 25 kg",
+  "resumen": "Si la manipulación manual es inevitable y no se pueden usar ayudas mecánicas, no se permite operar con cargas superiores a 25 kilogramos; el límite puede variar con factores agravantes, aplicando el DS 63/2005 y la Guía Técnica de manejo manual de carga.",
+  "riesgos": [
+   "R1"
+  ],
+  "fuente": "https://dt.gob.cl/legislacion/1624/w3-article-114627.html",
+  "verificado": true,
+  "nota": "Leído en Ord. DT 1013 (cita el art. 211-H); vigencia de las modificaciones desde 17-09-2017 según Ord. DT 4228. Arts. 211-F, 211-G e 211-I no se pudieron leer.",
+  "jerarquia": []
+ },
+ {
+  "id": "CT-211J",
+  "norma": "Código del Trabajo (Ley 20.949)",
+  "articulo": "Art. 211-J",
+  "titulo": "Límite de 20 kg para menores de 18 años y mujeres",
+  "resumen": "Los menores de 18 años y las mujeres no pueden llevar, transportar, cargar, arrastrar ni empujar manualmente cargas superiores a 20 kilogramos; el empleador debe aplicar medidas de seguridad y mitigación como rotación, menor altura de levantamiento o mayor frecuencia de manipulación.",
+  "riesgos": [
+   "R1"
+  ],
+  "fuente": "https://dt.gob.cl/legislacion/1624/w3-article-114627.html",
+  "verificado": true,
+  "nota": "Leído en Ord. DT 1013 y Ord. DT 4228. Texto resumido; cotejar redacción exacta vigente en bcn.cl.",
+  "jerarquia": []
+ },
+ {
+  "id": "DS63-13",
+  "norma": "DS 63/2005",
+  "articulo": "Art. 13",
+  "titulo": "Criterios de evaluación del riesgo de manejo manual de carga",
+  "resumen": "El empleador debe evaluar el riesgo considerando criterios sobre la carga, el entorno de trabajo, el esfuerzo físico y las exigencias de la tarea.",
+  "riesgos": [
+   "R1"
+  ],
+  "fuente": "https://dt.gob.cl/legislacion/1624/w3-article-113528.html",
+  "verificado": true,
+  "nota": "Leído solo como cita dentro del Ord. DT 4228 (2017). Ministerio emisor y vigencia actual no verificados.",
+  "jerarquia": []
+ },
+ {
+  "id": "CT-183E",
+  "norma": "Código del Trabajo (Ley 20.123)",
+  "articulo": "Art. 183-E",
+  "titulo": "Empresa principal: protección de todos los trabajadores de la faena",
+  "resumen": "La empresa principal debe adoptar las medidas necesarias para proteger la vida y salud de todos los trabajadores que laboran en su obra, empresa o faena, cualquiera sea su dependencia, según el art. 66 bis de la Ley 16.744 y el art. 3° del DS 594/1999.",
+  "riesgos": [
+   "*"
+  ],
+  "fuente": "https://www.dt.gob.cl/1601/articles-94057_recurso_1.pdf",
+  "verificado": true,
+  "nota": "Ley 20.123 publicada 16-10-2006. Se excluye construcción por precio único prefijado si quien encarga la obra es persona natural. El contenido del art. 66 bis de la Ley 16.744 no se leyó.",
+  "jerarquia": []
+ },
+ {
+  "id": "CT-183AB",
+  "norma": "Código del Trabajo (Ley 20.123)",
+  "articulo": "Art. 183-AB",
+  "titulo": "Empresa usuaria de servicios transitorios: higiene y seguridad",
+  "resumen": "La empresa usuaria es directamente responsable de la higiene y seguridad de los trabajadores transitorios, incluidas las medidas de prevención aplicables a sus trabajadores permanentes, y debe denunciar al organismo administrador los hechos del art. 76 de la Ley 16.744.",
+  "riesgos": [
+   "*"
+  ],
+  "fuente": "https://www.dt.gob.cl/1601/articles-94057_recurso_1.pdf",
+  "verificado": true,
+  "nota": "Aplica solo a servicios transitorios, no a subcontratación común.",
+  "jerarquia": []
+ },
+ {
+  "id": "L21643-211A",
+  "norma": "Código del Trabajo (Ley 21.643)",
+  "articulo": "Art. 211-A",
+  "titulo": "Protocolo de prevención de acoso y violencia en el trabajo",
+  "resumen": "El empleador debe elaborar y entregar un protocolo de prevención de acoso sexual, laboral y violencia en el trabajo que incluya la identificación de riesgos psicosociales con perspectiva de género, medidas de prevención con objetivos medibles, capacitación y resguardo de la privacidad, y debe informar semestralmente los canales de denuncia.",
+  "riesgos": [
+   "D1",
+   "D3",
+   "C1"
+  ],
+  "fuente": "https://www.diariooficial.interior.gob.cl/publicaciones/2024/01/15/43750/01/2437267.pdf",
+  "verificado": true,
+  "nota": "Ley 21.643 publicada 15-01-2024; vigente desde 01-07-2024. La asignación de códigos ISP es criterio mío, no figura en la ley.",
+  "jerarquia": []
+ },
+ {
+  "id": "L21643-211Bbis",
+  "norma": "Código del Trabajo (Ley 21.643)",
+  "articulo": "Art. 211-B bis",
+  "titulo": "Denuncia y medidas de resguardo",
+  "resumen": "La denuncia puede ser escrita o verbal (con acta) y el empleador debe adoptar medidas de resguardo inmediatas, como separación de espacios, redistribución de jornada y atención psicológica temprana.",
+  "riesgos": [
+   "D1",
+   "D3",
+   "C1"
+  ],
+  "fuente": "https://www.diariooficial.interior.gob.cl/publicaciones/2024/01/15/43750/01/2437267.pdf",
+  "verificado": true,
+  "nota": "Ver nota de L21643-211A.",
+  "jerarquia": []
+ },
+ {
+  "id": "L20096-19",
+  "norma": "Ley 20.096",
+  "articulo": "Art. 19",
+  "titulo": "Protección ante radiación ultravioleta de origen solar",
+  "resumen": "El empleador debe adoptar medidas para proteger a trabajadores permanentemente expuestos al aire libre: mayor protección de 10:00 a 15:00 h, pausas bajo sombra, protector solar FPS 15 o más, anteojos con filtro UV, ropa que cubra la mayor parte del cuerpo y sombrero o casco que proteja orejas, sienes, nuca y rostro.",
+  "riesgos": [
+   "L1",
+   "P4"
+  ],
+  "fuente": "https://dt.gob.cl/legislacion/1624/w3-article-94458.html",
+  "verificado": true,
+  "nota": "Leído en Ord. DT 879/18 (07-03-2007). Vigencia actual y relación con modificaciones posteriores del DS 594 no verificadas.",
+  "jerarquia": []
+ },
+ {
+  "id": "TMERT-V",
+  "norma": "Norma Técnica TMERT-EESS (RE 804/2012 Minsal)",
+  "articulo": "Sección V",
+  "titulo": "Responsabilidad del empleador en TMERT",
+  "resumen": "El empleador debe identificar y evaluar los factores de riesgo de trastornos musculoesqueléticos de extremidades superiores, pudiendo asesorarse por el Departamento de Prevención, el organismo administrador, un profesional en ergonomía o el Comité Paritario. Aplica a cualquier empresa donde se usen y exijan las extremidades superiores.",
+  "riesgos": [
+   "S1"
+  ],
+  "fuente": "https://ergomedia.isl.gob.cl/norma_tecnica_tmert.pdf",
+  "verificado": true,
+  "nota": "Resolución Exenta N° 804 del Minsal, 26-09-2012; cumple el punto 9 y arts. 110 a, 110 a.1, 110 a.2 y 110 a.3 del DS 594. Vigencia a 2026 no verificada.",
+  "jerarquia": []
+ },
+ {
+  "id": "TMERT-VII",
+  "norma": "Norma Técnica TMERT-EESS (RE 804/2012 Minsal)",
+  "articulo": "Secciones 7.2 a 7.4 y Anexo II",
+  "titulo": "Identificación con lista de chequeo y evaluación preliminar",
+  "resumen": "Se aplica la Lista de Chequeo por observación directa de las tareas en condiciones habituales y se clasifica cada paso en nivel verde, amarillo o rojo, tomando el nivel más alto como riesgo de la tarea.",
+  "riesgos": [
+   "S1"
+  ],
+  "fuente": "https://ergomedia.isl.gob.cl/norma_tecnica_tmert.pdf",
+  "verificado": true,
+  "nota": "Ver nota de TMERT-V.",
+  "jerarquia": []
+ },
+ {
+  "id": "TMERT-VI",
+  "norma": "Norma Técnica TMERT-EESS (RE 804/2012 Minsal)",
+  "articulo": "Sección 7.2 y Anexo VI",
+  "titulo": "Control de factores de riesgo",
+  "resumen": "El empleador debe implementar medidas de ingeniería o administrativas, reevaluar después de intervenir y asegurar que los trabajadores las adopten; si el riesgo rojo no se corrige con medidas simples, se requiere evaluación especializada por un profesional capacitado en ergonomía.",
+  "riesgos": [
+   "S1"
+  ],
+  "fuente": "https://ergomedia.isl.gob.cl/norma_tecnica_tmert.pdf",
+  "verificado": true,
+  "nota": "Ver nota de TMERT-V.",
+  "jerarquia": []
+ },
+ {
+  "id": "TMERT-IX",
+  "norma": "Norma Técnica TMERT-EESS (RE 804/2012 Minsal)",
+  "articulo": "Sección IX",
+  "titulo": "Capacitación y registro",
+  "resumen": "El empleador debe mantener un programa de capacitación por escrito con registro de participantes y actualizar la ficha de datos generales en cada nueva evaluación.",
+  "riesgos": [
+   "S1"
+  ],
+  "fuente": "https://ergomedia.isl.gob.cl/norma_tecnica_tmert.pdf",
+  "verificado": true,
+  "nota": "Ver nota de TMERT-V.",
+  "jerarquia": []
+ },
+ {
+  "id": "SUSESO-CEALSM",
+  "norma": "Compendio SUSESO Libro IV, Tít. II, Letra F, Cap. V (Circular 3709/2022)",
+  "articulo": "N° 1 Antecedentes generales",
+  "titulo": "Evaluación de riesgo psicosocial con CEAL-SM / SUSESO",
+  "resumen": "La entidad empleadora debe medir y evaluar el riesgo psicosocial laboral con el cuestionario CEAL-SM / SUSESO, que reemplaza al SUSESO/ISTAS21 desde el 01-01-2023; según el resultado puede deber ingresar al programa de vigilancia de su organismo administrador y aplicar medidas para eliminar o disminuir el riesgo.",
+  "riesgos": [
+   "D1",
+   "D2",
+   "D3",
+   "D4",
+   "D5"
+  ],
+  "fuente": "https://www.suseso.gob.cl/613/w3-propertyvalue-137251.html",
+  "verificado": true,
+  "nota": "Circular 3709 del 09-11-2022. La página no fija plazos; los plazos estarían en el Protocolo de Vigilancia del Minsal, que no se leyó.",
+  "jerarquia": []
+ },
+ {
+  "id": "PREXOR-EMP",
+  "norma": "Protocolo PREXOR (Minsal)",
+  "articulo": "Responsabilidad de la empresa",
+  "titulo": "Sistema de gestión para control de exposición a ruido",
+  "resumen": "La empresa debe contar con un sistema de gestión para controlar la exposición a ruido que incluya, como mínimo, las medidas de control, los trabajadores expuestos en un programa de vigilancia de la salud y las difusiones y capacitaciones realizadas. Se apoya en los arts. 70 a 82 del DS 594.",
+  "riesgos": [
+   "P1"
+  ],
+  "fuente": "https://achs.cl/docs/librariesprovider2/empresa/centro-de-fichas/documentos-esenciales/protocolos-ministerio-de-salud-protocolo-de-exposicion-al-ruido-prexor.pdf",
+  "verificado": false,
+  "nota": "Fuente ACHS (no oficial) y resumen de página, sin numerales. No se confirmó el número de la Resolución Exenta ni los niveles de acción. Cotejar con documento Minsal.",
+  "jerarquia": []
+ }
+]
