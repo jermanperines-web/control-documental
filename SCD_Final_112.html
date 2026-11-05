@@ -3573,10 +3573,36 @@ const CATALOGO_ISP_COMPLETO = {
 
 function corregirGEMA(gema, familia, tarea){
   if(!gema) return 'Falta identificar Peligro (GEMA)';
-  // Si ya empieza correctamente con G- E- M- A- se mantiene
-  if(/^[GEMA]-/i.test(gema)) return gema;
-  // Si la IA no puso el prefijo, marcar para revision sin adivinar
-  return 'Revisar clasificacion: ' + gema;
+  // Si no trae prefijo GEMA valido, marcar para revision sin adivinar
+  const m = /^([GEMA])-(.*)$/i.exec(gema);
+  if(!m) return 'Revisar clasificacion: ' + gema;
+  const letra = m[1].toUpperCase();
+  const desc = m[2];
+  // La IA a veces pone un prefijo con formato valido pero que NO corresponde al
+  // origen real del peligro (ej: "M-Exposicion a temperaturas extremas" deberia
+  // ser "A", porque el clima es Ambiente, no Materiales; "M-Violencia de terceros"
+  // deberia ser "G", porque es un factor humano/organizacional, no un material).
+  // origenGEMA() detecta esos casos por palabras clave del texto del peligro y
+  // corrige la letra para que quede coherente en todo el documento.
+  const letraCorrecta = origenGEMA(desc);
+  return (letraCorrecta || letra) + '-' + desc;
+}
+
+// Determina el origen GEMA correcto a partir del texto del peligro (sin el prefijo),
+// para detectar y corregir clasificaciones de la IA que son validas en formato pero
+// incorrectas en contenido. Devuelve null si no hay una senal clara por palabra clave,
+// en cuyo caso se respeta la letra que puso la IA.
+function origenGEMA(desc){
+  const d = String(desc||'').normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase();
+  // A - Ambiente: condiciones climaticas/fisicas del entorno de trabajo
+  if(/temperatura|calor extremo|frio extremo|radiacion solar|radiacion ultravioleta|\buv\b|clima|intemperie|iluminacion|piso resbal|piso mojado|desnivel|rampa|incendio en (la )?instalac/.test(d)) return 'A';
+  // G - Gente/Organizacion: conductas de terceros, factores psicosociales, capacitacion
+  if(/violencia|acoso|agresion fisica|estres|capacitacion|conflicto|carga mental|carga emocional|doble presencia|turno rotativo/.test(d)) return 'G';
+  // E - Equipos/herramientas/maquinaria/vehiculos
+  if(/vehiculo|herramienta|instalacion electrica|maquinaria|equipo defectuoso|vehiculos sin sistema/.test(d)) return 'E';
+  // M - Materiales/sustancias/insumos que la persona manipula directamente
+  if(/quimic|\bcloro\b|combustible|\bspray\b|sustancia|\bcemento\b|\bpolvo\b|solvente/.test(d)) return 'M';
+  return null;
 }
 
 function getCatalogoRiesgo(codigo){
